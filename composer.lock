@@ -2019,7 +2019,7 @@
                 "shasum": ""
             },
             "require": {
-                "php": ">=5.3,<8.1-DEV"
+                "php": ">=5.3,<8.2-DEV"
             },
             "require-dev": {
                 "athletic/athletic": "~0.1.8",
